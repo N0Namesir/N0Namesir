@@ -11,7 +11,7 @@
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-0F47AF?style=for-the-badge)
 
-</div align="center">
+</div >
 
 ---
 
