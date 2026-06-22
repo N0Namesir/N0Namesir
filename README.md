@@ -6,9 +6,10 @@
 
 *construyendo mientras aprendo*
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)]()
-[![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-0F47AF?style=for-the-badge)]()
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-0F47AF?style=for-the-badge)
 
 </div>
 
@@ -34,6 +35,7 @@ Estudiante de desarrollo de software en INSAMT, El Salvador. No aprendo con tuto
 
 **Backend & infraestructura**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
@@ -69,7 +71,12 @@ Un sitio estático con datos en producción, diseñado para que mis compañeros 
 
 ---
 
+## github stats
+
 <div align="center">
+
+[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=N0Namesir&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/0v3rw4tchz)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=N0Namesir&layout=compact&theme=tokyonight)](https://github.com/0v3rw4tchz)
 
 *Dame una estrella o se filtran tus API keys.*
 
