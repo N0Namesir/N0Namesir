@@ -25,7 +25,8 @@ Estudiante de desarrollo de software en INSAMT, El Salvador. No aprendo con tuto
 - Super mega dev senior giga admin superior en preguntarle todo a la IA
 
 ---
-
+<div align="center">
+  
 ## stack
 
 **Sistemas operativos**
@@ -59,6 +60,8 @@ Estudiante de desarrollo de software en INSAMT, El Salvador. No aprendo con tuto
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ---
+
+</div >
 
 ## Proyectos destacados
 
